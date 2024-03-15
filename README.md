@@ -3,7 +3,7 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=tsheringdendup77&icon=7&color=9"  height="30" alt="tsheringdendup77" />
 <h3 align="left">A Frontend Developer from Bhutan.</h3>
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **CSS, SCSS and Tailwind CSS**
 
 - 📫 How to reach me **tshering.dendup@selisegroup.com**
 
