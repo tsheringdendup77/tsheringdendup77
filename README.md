@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TsheRin Dendup</h1>
+<h1 align="center">こんにちは 👋, I'm TsheRin Dendup</h1>
 
 <img align="right" src="https://visitcount.itsvg.in/api?id=tsheringdendup77&icon=7&color=9"  height="30" alt="tsheringdendup77" />
 <h3 align="left">A Frontend Developer from Bhutan.</h3>
